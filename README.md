@@ -1,0 +1,2 @@
+# diDb
+Decentralized Identity Database
